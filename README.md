@@ -6,7 +6,7 @@
 
 I am a Software Engineer in Bolivia. I have high skills in web technologies and infrastructures topics. Team Work and continuous learning are important for me. Developing the Next Big Thing is something that I want to be involving in order to create a better place for everyone.
 
-<div style="display:flex;justify-content:space-around"><div>
+<p align="left">
 
 ### Projects
 
@@ -15,7 +15,8 @@ I am a Software Engineer in Bolivia. I have high skills in web technologies and 
 - [Bayesianas Expertos](https://bayesianas.mauriballes.com)
 - [Binary Tree](https://tree.mauriballes.com)
 
-</div><div>
+</p>
+<p align="right">
 
 ### Networks
 
@@ -24,4 +25,4 @@ I am a Software Engineer in Bolivia. I have high skills in web technologies and 
 - [YouTube](https://www.youtube.com/channel/UCk23CTi6hzXg4H_iTuXcMEQ)
 - [Email](mailto:contact@mauriballes.com)
 
-</div></div>
+</p>
