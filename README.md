@@ -2,7 +2,7 @@
 
 I am a Software Engineer in Bolivia. I have high skills in web technologies and infrastructures topics. Team Work and continuous learning are important for me.
 
-<img align="right" src="./logo.png" alt="Logo" width="400"/>
+<img align="right" src="./logo.png" alt="Logo" width="300"/>
 
 <p align="left">
 
