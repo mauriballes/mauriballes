@@ -1,14 +1,18 @@
 # Mauricio Ballesteros
 
-DevOps engineer with web developer skills. I build platforms, automate deployments, and turn technical ideas into systems teams can operate.
-
-<img align="right" src="./logo.png" alt="mauriballes logo" width="260"/>
-
-```bash
-whoami     software-engineer.devops.teacher
+<table>
+  <tr>
+    <td valign="top" width="68%">
+      <p>DevOps engineer with web developer skills. I build platforms, automate deployments, and turn technical ideas into systems teams can operate.</p>
+      <pre><code>whoami     software-engineer.devops.teacher
 location   Santa Cruz, Bolivia
-focus      platforms, ci/cd, kubernetes, web
-```
+focus      platforms, ci/cd, kubernetes, web</code></pre>
+    </td>
+    <td align="right" width="32%">
+      <img src="./logo.png" alt="mauriballes logo" width="220"/>
+    </td>
+  </tr>
+</table>
 
 ## About
 
